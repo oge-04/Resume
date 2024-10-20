@@ -1,0 +1,22 @@
+ul.skill_list li{
+    display: inline-block;
+    padding: 4px;
+    border-style: hidden solid hidden hidden;
+    border-color: aqua;
+}
+
+.section_header{
+    border-style: hidden hidden dashed;
+}
+
+.education_dates{
+    text-align: right;
+}
+
+.education_table {
+    width: 100%;
+}
+
+.work_experience_table {
+    width: 100%;
+}
